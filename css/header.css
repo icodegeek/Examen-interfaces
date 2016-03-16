@@ -1,0 +1,29 @@
+header {
+  background: #000;
+}
+
+header nav ul {
+  margin: 0;
+  padding: 23px;
+}
+
+header nav ul li {
+  color: #FFFFFF;
+  font-size: 12px;
+  list-style: none;
+
+}
+
+header nav ul li a {
+
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: lighter;
+  padding: 25px;
+}
+
+header nav ul li a:hover {
+  background: #9C3334;
+  position: relative;
+  top: -2px;
+}
