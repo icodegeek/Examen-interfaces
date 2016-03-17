@@ -27,3 +27,10 @@ header nav ul li a:hover {
   position: relative;
   top: -2px;
 }
+
+header img {
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
